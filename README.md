@@ -1,4 +1,4 @@
-En este repositorio estaran subidos todos los Trabajos Practicos de StreamBe(generacion T) hechos por Godoy Agustin, Estaran subidos diferentes proyectos donde se usan lenguajes como: HTML5, CSS y JavaScrip,. a continuacion hare una lista y descripcion del contenido de cada carpeta subida a este repositorio:
+En este repositorio estaran subidos todos los Trabajos Practicos de StreamBe(generacion T) hechos por Castro Lucas (Miembro de TurboSanguches), Estaran subidos diferentes proyectos donde se usan lenguajes como: HTML5, CSS y JavaScrip,. a continuacion hare una lista y descripcion del contenido de cada carpeta subida a este repositorio:
 
 ### Trabajo practico 1:
 Se utiliza HTML, aunque se aplica un poco de CSS, mostrando cuadros con fotos y textos aplicados.
